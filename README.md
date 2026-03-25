@@ -88,3 +88,34 @@ ml-algorithms-from-scratch/
 ## License
 
 MIT
+
+
+---
+
+## Contributors & Domain Experts
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/mlnjsh">
+        <img src="https://github.com/mlnjsh.png" width="80px;" alt="Milan Amrut Joshi"/><br />
+        <sub><b>Milan Amrut Joshi</b></sub>
+      </a><br />
+      <sub>Project Author</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/eriklindernoren">
+        <img src="https://github.com/eriklindernoren.png" width="80px;" alt="Erik Linder-Noren"/><br />
+        <sub><b>Erik Linder-Noren</b></sub>
+      </a><br />
+      <sub>ML From Scratch implementations</sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/rushter">
+        <img src="https://github.com/rushter.png" width="80px;" alt="Egor Pakhomov"/><br />
+        <sub><b>Egor Pakhomov</b></sub>
+      </a><br />
+      <sub>ML from scratch in Python</sub>
+    </td>
+  </tr>
+</table>
